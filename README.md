@@ -22,6 +22,9 @@ It’s not meant to be a polished, full game — rather, it is my **first step i
 
 ## 🚀 How to Play
 
+- Clone the repo and use live server with VS Code
+- Or you can simply follow [this Link](https://ize-aman.github.io/Cubethon/).
+
 ## 📚 What I Learned
 
 - How to set up a Unity project
